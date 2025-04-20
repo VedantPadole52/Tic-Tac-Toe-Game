@@ -1,4 +1,3 @@
-# Tic-Tac-Toe-Game
 # Tic Tac Toe Game 🎯
 
 A simple web-based Tic Tac Toe game using HTML, CSS, and JavaScript.
