@@ -25,7 +25,7 @@ A simple web-based Tic Tac Toe game using HTML, CSS, and JavaScript.
 
 1. Download or clone this repository.
 2. Open the `index.html` file in your web browser.
-3. Start playing with a friend!
+3. Start playing with a friend
 
 ## Live Demo Link :
 https://tic-tac-toe-game-seven-mu.vercel.app/
